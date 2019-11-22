@@ -1,4 +1,22 @@
 {
+  "name": "AlgorithmsAndDataStructure",
+  "version": "1.0.0",
+  "description": "- [Reverse String](reversestring/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apteles/AlgorithmsAndDataStructure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apteles/AlgorithmsAndDataStructure/issues"
+  },
+  "homepage": "https://github.com/apteles/AlgorithmsAndDataStructure#readme",
   "devDependencies": {
     "jest": "^24.9.0"
   }
